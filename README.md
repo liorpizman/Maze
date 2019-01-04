@@ -3,7 +3,7 @@ Solving the maze by different algorithms
 
 Welcome to our Maze game application!
 
-1.Our jar file is in the directory : ATP-Project-PartC\out\artifacts\ATP_Project_PartC_jar
+1.Run Main class in View Package
 
 2.We did the ctrl+ scroll the mouse feature- while we have max and min scale sizes 
 
